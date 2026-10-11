@@ -1,0 +1,106 @@
+◇ injected env (6) from ..\..\..\..\xampp\htdocs\siad_node_api\.env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+🚀 Serveur SIAD REST API disponible sur le port 3000
+🔑 DB_NAME: siad_db
+🔑 GEMINI_API_KEY present: true
+✅ Connecté avec succès au Pool de la base de données MySQL (XAMPP)
+ℹ️ Table "messages" vérifiée et opérationnelle.
+ℹ️ Table "users" vérifiée et opérationnelle.
+🔍 Lecture demandée par: PDG (Administrateur SIAD)
+🔍 Lecture demandée par: PDG (Administrateur SIAD)
+✅ Message 2 mis à jour vers : ARBITRE_PAR_PDG
+🔍 Lecture demandée par: PDG (Administrateur SIAD)
+✅ Message 2 mis à jour vers : ARBITRE_PAR_PDG
+🔍 Lecture demandée par: PDG (Administrateur SIAD)
+🔍 Lecture demandée par: PDG (Admin Test)
+🔍 Lecture demandée par: PDG (Admin Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Admin Test)
+🔍 Lecture demandée par: PDG (Admin Test)
+🔍 Lecture demandée par: PDG (Admin Test)
+🔍 Lecture demandée par: MANAGER (Manager Test)
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+✅ Message ID 3 créé par Employé Test
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+🔍 Lecture demandée par: MANAGER (Manager Test)
+🔍 Lecture demandée par: CLIENT (Client Test)
+✅ Message ID 4 créé par Client Test
+🔍 Lecture demandée par: CLIENT (Client Test)
+🔍 Lecture demandée par: MANAGER (Manager Test)
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+🔍 Lecture demandée par: MANAGER (Chef Finances)
+🔍 Lecture demandée par: MANAGER (Chef RH)
+✅ Message 4 mis à jour vers : VALIDE_PAR_CHEF
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🤖 Analyse IA demandée pour MANAGER.
+🤖 Analyse IA demandée pour MANAGER.
+🤖 Analyse IA demandée pour MANAGER.
+🤖 Analyse IA demandée pour MANAGER.
+🤖 Analyse IA demandée pour MANAGER.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🤖 Analyse IA demandée pour MANAGER.
+🤖 Analyse IA demandée pour MANAGER.
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🔍 Lecture demandée par: CLIENT (Client Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🤖 Analyse IA demandée pour MANAGER.
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: PARTENAIRE (Partenaire Test)
+✅ Message ID 5 créé par Partenaire Test
+🔍 Lecture demandée par: PARTENAIRE (Partenaire Test)
+🔍 Lecture demandée par: MANAGER (Chef Finances)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+✅ Message 4 mis à jour vers : ARBITRE_PAR_PDG
+🔍 Lecture demandée par: PDG (Directeur Test)
+✅ Message 2 mis à jour vers : ARBITRE_PAR_PDG
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🤖 Analyse IA demandée pour PDG.
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: PDG (Directeur Test)
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+✅ Message ID 6 créé par Employé Test
+🔍 Lecture demandée par: EMPLOYE (Employé Test)
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: PDG (Admin)
+🔍 Lecture demandée par: MANAGER (Chef RH)
+🔍 Lecture demandée par: MANAGER (Chef Info)
+🔍 Lecture demandée par: MANAGER (Chef Finances)
